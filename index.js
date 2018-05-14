@@ -1,6 +1,6 @@
 
 
-function myAnimal(cat) {
+function myAnimal("cat") {
   return animal
 }
 
